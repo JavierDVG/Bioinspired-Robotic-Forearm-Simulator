@@ -15,4 +15,4 @@ A Python-based GUI tool to simulate a bioinspired robotic forearm with:
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python gui.py
+python -m interface.gui
