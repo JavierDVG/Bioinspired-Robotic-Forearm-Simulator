@@ -1,5 +1,7 @@
 # Bioinspired Robotic Forearm Simulator
 
+![Demo](demo.gif)
+
 A Python-based GUI tool to simulate a bioinspired robotic forearm with:
 - 2D and 3D visualization
 - Manual and inverse kinematics control
